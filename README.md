@@ -1,6 +1,8 @@
 # flutter_bloc_pattern
 
-Bloc Implementation in Flutter
+### Bloc Implementation in Flutter with Drawer Example.
+
+#### Bloc Pattern is useful to handle complex UI to overcome the short comings of set state function in a stateful widget tree.
 
 ## Getting Started
 
